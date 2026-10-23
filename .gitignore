@@ -8,6 +8,14 @@ train.csv
 Dig-MNIST.csv
 test.csv
 
+# Temporary / scratch / helper files
+*.bat
+*.keras
+/results.json
+/submission.csv
+cred_out.txt
+scripts/test_speed.py
+
 # Virtual environments
 venv/
 env/
