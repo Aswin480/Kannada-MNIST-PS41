@@ -1,0 +1,8 @@
+{
+  "validation_accuracy": 0.9957777777777778,
+  "validation_macro_f1": 0.9957779255213793,
+  "dig_mnist_accuracy": 0.8083984375,
+  "dig_mnist_macro_f1": 0.8083015192955338,
+  "accuracy_gap_percentage_points": 18.73793402777778,
+  "architecture": "Compact CNN trained from scratch"
+}

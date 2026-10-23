@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large dataset files exceeding GitHub 100MB limit
+train.csv
+Dig-MNIST.csv
+test.csv
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# System / temporary files
+.ipynb_checkpoints/
+*.log
