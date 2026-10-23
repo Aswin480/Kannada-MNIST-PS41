@@ -6,6 +6,7 @@
 **Problem Statement:** PS-41: Kannada Handwritten Digit Recognition  
 **Student Name:** Aswin S  
 **Student Register Number:** `RA2311026050067`  
+**GitHub Repository:** [https://github.com/Aswin480/Kannada-MNIST-PS41](https://github.com/Aswin480/Kannada-MNIST-PS41)  
 **Official Dataset Source:** [Kaggle Kannada-MNIST Challenge](https://www.kaggle.com/c/Kannada-MNIST) (Prabhu, 2019)  
 
 ---

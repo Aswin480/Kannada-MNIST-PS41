@@ -34,6 +34,7 @@ def create_jupyter_notebook(output_filename='RA2311026050067_PS41.ipynb'):
 > - **Year & Semester:** IV Year / VII Semester
 > - **Course:** Deep Learning — Challenge-Based Learning (CBL) Image Classification Challenge
 > - **Problem Statement:** PS-41: Kannada Handwritten Digit Recognition (Domain: Indian Scripts, Signs & Currency)
+> - **GitHub Repository:** `https://github.com/Aswin480/Kannada-MNIST-PS41`
 > - **Official Dataset:** Kaggle Kannada-MNIST Benchmark (`https://www.kaggle.com/c/Kannada-MNIST`, Prabhu 2019)
 > - **Execution Environment:** Python 3.11, PyTorch 2.1.0 (CPU Multithreading)
 """))

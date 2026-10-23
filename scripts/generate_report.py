@@ -165,7 +165,7 @@ def generate_professional_report(metrics_path='outputs/metrics.json', output_pdf
         [
             Paragraph("<b>PS No. & Title:</b> PS-41: Kannada Handwritten Digit Recognition", t_cell),
             Paragraph("<b>Date:</b> October 23, 2026", t_cell),
-            Paragraph("<b>GitHub:</b> github.com/Aswin-S/Kannada-MNIST-PS41", t_cell)
+            Paragraph("<b>GitHub:</b> github.com/Aswin480/Kannada-MNIST-PS41", t_cell)
         ]
     ]
     t_meta = Table(meta_table_data, colWidths=[56*mm, 56*mm, 58*mm])
